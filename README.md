@@ -49,7 +49,7 @@
   <section class="contact">
     <h2>Contact Us</h2>
     <p>If you have any questions, feel free to reach out!</p>
-    <p>Email: your@email.com | Phone: (123) 456-7890</p>
+    <p>Email princejakobi555@email.com | Phone: (303) 947-9741</p>
   </section>
 
   <footer>
